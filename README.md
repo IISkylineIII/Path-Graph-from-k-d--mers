@@ -47,7 +47,7 @@ for node in nodes_result:
             print(f"{node} -> {edge[1]} [{edge[0]}]")
 
 ```
-Output
+# Output
 
 TGCCAT -> GCCATG [TGCCATG]
 GCCATG -> CCATGG [GCCATGG]
